@@ -1,5 +1,7 @@
 
-링크 : https://atcoder.jp/contests/abc358
+https://atcoder.jp/contests/abc358
+
+https://atcoder.jp/users/sk14cj/history/share/abc358?lang=en
 
 A,B 총 2문제를 풀었고, 이후 에디토리얼을 통해 C, D 문제를 학습했다.
 
