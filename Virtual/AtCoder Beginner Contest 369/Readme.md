@@ -1,3 +1,7 @@
+맞은 문제 : A, B, D
+
+https://atcoder.jp/contests/abc369/submissions/me
+
 <ul>
   <li> A : a = b인지, a와 b의 차가 홀수인지 짝수인지 판별</li>
   <li> B : 초기값을 제외하고 움직임을 계산하면 끝</li>
