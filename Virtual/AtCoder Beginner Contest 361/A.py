@@ -1,0 +1,5 @@
+n,k,x = map(int,input().split())
+array = list(map(int,input().split()))
+print(*array[:k],end=" ")
+print(str(x),end=" ")
+print(*array[k:])
